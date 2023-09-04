@@ -2,7 +2,7 @@ package com.gildedrose;
 
 class GildedRose {
     Item[] items;
-    //initialisation
+    //initialisation using constructor
     public GildedRose(Item[] items) {
         this.items = items;
     }
